@@ -1,0 +1,28 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  color: black
+}
+ 
+.home-text1 {
+  display: inline-block;
+}
+ 
+.home-text2 {
+  display: inline-block;
+}
+ 
+.home-text3 {
+  display: inline-block;
+}
+ 
+.home-text4 {
+  display: inline-block;
+}
+ 
+.home-text5 {
+  display: inline-block;
+}
